@@ -16,7 +16,7 @@ A netowkr advertissing in channel their fiver page.
 * apotiqagis16ti
 
 ### Links
-* <streamer.gigz.me>
+* [streamer.gigz.me](https://www.streamer.gigz.me) 
 	* In the bots banner
 	* redirects to: <https://www.fiverr.com/stores/twitch?utm_source=17386&utm_medium=cx_affiliate&utm_campaign=streamer&cxd_token=17386_2489505&show_join=true>
 
